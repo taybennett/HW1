@@ -1,4 +1,4 @@
-HW-wirefram
+HW-wireframe
 ===========
 
-This is my demo.
+This is my first Homework assignment. Yippie! 
